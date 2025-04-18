@@ -1,0 +1,98 @@
+﻿body {
+    background: #f0f2f5;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.fb-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+._8esj._8esf._8icx._8opv ._8eso {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+._8icx._8opv ._8ice {
+    padding: 112px 0 16px;
+}
+
+.fb-header {
+    max-width: 400px;
+}
+
+    .fb-header h1 {
+        color: #1877f2;
+        font-size: 60px;
+        margin-bottom: 0;
+    }
+
+    .fb-header p {
+        font-size: 24px;
+        color: #1c1e21;
+    }
+
+.fb-login-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 350px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+    .fb-login-box input {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #dddfe2;
+        border-radius: 6px;
+        font-size: 16px;
+    }
+
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    background: #1877f2;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.forgot-link {
+    display: block;
+    color: #1877f2;
+    font-size: 14px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+hr {
+    margin: 20px 0;
+    border: none;
+    height: 1px;
+    background: #dddfe2;
+}
+
+.create-btn {
+    background: #42b72a;
+    color: white;
+    padding: 12px;
+    font-size: 17px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
